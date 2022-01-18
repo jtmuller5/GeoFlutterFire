@@ -35,14 +35,9 @@ dev_dependencies:
 
   geoflutterfire:
     path: ../
-<<<<<<< Updated upstream
-  cloud_firestore: ^2.0.0
+  cloud_firestore: ^3.1.6
   google_maps_flutter: ^2.0.1
-=======
 
-  cloud_firestore: ^2.4.0
-  google_maps_flutter: ^2.0.6
->>>>>>> Stashed changes
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
